@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1611684988510.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1120913459",
+    "id" : "6A503496",
+    "lastKnownWriteTime" : 1610745988,
+    "last_content_update" : 1611685012714,
+    "path" : "~/Desktop/EPA Project Data/EPA-Expert-Elicitation/GenerateDataRows.R",
+    "project_path" : "GenerateDataRows.R",
+    "properties" : {
+        "cursorPosition" : "11,49",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

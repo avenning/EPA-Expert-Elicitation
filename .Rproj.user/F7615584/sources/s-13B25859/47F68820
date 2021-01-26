@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1611684891014.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3020389420",
+    "id" : "47F68820",
+    "lastKnownWriteTime" : 1609443991,
+    "last_content_update" : 1609443991,
+    "path" : "~/Desktop/EPA Project Data/EPA-Expert-Elicitation/Data_Development.Rmd",
+    "project_path" : "Data_Development.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
