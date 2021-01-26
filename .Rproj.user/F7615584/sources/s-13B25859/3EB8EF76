@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1611685649344.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "692354899",
+    "id" : "3EB8EF76",
+    "lastKnownWriteTime" : 1611685706,
+    "last_content_update" : 1611685706025,
+    "path" : "~/Desktop/EPA Project Data/EPA-Expert-Elicitation/MacroInvertibrate Analysis.R",
+    "project_path" : "MacroInvertibrate Analysis.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
