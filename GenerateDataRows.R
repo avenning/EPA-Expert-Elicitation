@@ -7,9 +7,9 @@ library(lubridate)
 library(ggthemes)
 library(Hmisc)
 library(MASS)
-Raw_Data <- read_excel("Water_Quality_Data.xlsx")
-rm(Raw_Data)
 library(readr)
+
+Raw_Data <- read_excel("Water_Quality_Data.xlsx")
 Water_Quality_Data <- read_csv("Water_Quality_Data.csv")
 
 sum(!is.na(Raw_Data$ResultMeasureValue))

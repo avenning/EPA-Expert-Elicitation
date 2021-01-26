@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1611685534798.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3779494445",
+    "id" : "8C232005",
+    "lastKnownWriteTime" : 1609959059,
+    "last_content_update" : 1609959059,
+    "path" : "~/Desktop/EPA Project Data/EPA-Expert-Elicitation/Regressions.R",
+    "project_path" : "Regressions.R",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
